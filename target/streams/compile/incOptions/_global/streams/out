@@ -1,0 +1,38 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/dfg03/Sky/G8/Scala Coding Challenges/target/scala-2.13/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RecursionUtils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MapReduceFilter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TraitsUtils$Vehicle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RecursionUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StringRunner$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TraitsUtils$Bicycle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TraitsUtils$FourWheeler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GenericsUtils$MyStack.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TraitsUtils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Runner$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MapReduceFilter$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TraitsUtils$SUV.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GenericsUtils$GenericListOfLists$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleStrings.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GenericsRunner$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleStrings$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleStringRunner$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TraitsUtils$Shape.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StringOperations.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TraitsRunner$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GenericsRunner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleStringRunner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TraitsUtils$Car.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TraitsUtils$Rectangle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Runner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TraitsRunner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GenericsUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GenericsUtils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StringOperations$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GenericsUtils$GenericListOfLists.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TraitsUtils$Circle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TraitsUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StringRunner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/dfg03/Sky/G8/Scala Coding Challenges/target/scala-2.13/classes.bak[0m
